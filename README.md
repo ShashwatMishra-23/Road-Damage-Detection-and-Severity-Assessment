@@ -15,9 +15,6 @@ The project also gives an estimated severity level for detected damage.
 
 ## Files
 
-`road_damage_colab.ipynb`  
-Notebook for running the project in Google Colab with GPU.
-
 `road_damage_detection.ipynb`  
 Main notebook used for dataset preparation, training and evaluation.
 
