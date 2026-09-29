@@ -21,7 +21,7 @@ Main notebook used for dataset preparation, training and evaluation.
 `road_damage_image_test.ipynb`  
 Testing notebook that lets you upload or drag and drop an image and displays the prediction directly in the notebook output.
 
-`yolo11n.pt`  
+`road_damage_yolo11n.pt`  
 Trained YOLO model.
 
 ## Dataset
@@ -107,7 +107,7 @@ The notebook will:
 3. Show the damage class and confidence.
 4. Display the result directly in the notebook output.
 
-Make sure `yolo11n.pt` is placed in the project folder.
+Make sure `road_damage_yolo11n.pt` is placed in the project folder.
 
 ## Python packages
 
@@ -132,5 +132,5 @@ ipywidgets
 The trained model is based on YOLO11n and is saved as:
 
 ```text
-yolo11n.pt
+road_damage_yolo11n.pt
 ```
