@@ -1,6 +1,11 @@
 ultralytics
+torch
+torchvision
+torchaudio
 pandas
 matplotlib
 pillow
 pyyaml
+jupyter
+ipykernel
 ipywidgets
