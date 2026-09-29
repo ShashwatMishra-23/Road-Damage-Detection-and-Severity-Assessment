@@ -27,6 +27,7 @@ Trained YOLO model.
 ## Dataset
 
 The project uses the RDD2022 India dataset and keeps the four damage categories required for this project.
+[Link To Dataset](https://universe.roboflow.com/prakhar-kpb1v/rdd2022-india-il8ju/dataset/6)
 
 ## Running the model
 
